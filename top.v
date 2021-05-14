@@ -1,3 +1,4 @@
+//top module for icestick, including clock divider
 `include "nco.v"
 
 module top (input clk, output [3:0] snd);

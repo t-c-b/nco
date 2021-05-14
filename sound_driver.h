@@ -3,6 +3,7 @@
 
 #include <cstddef>
 
+//8 kHz audio driver
 class SoundDriver
 {
 public:
